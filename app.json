@@ -1,0 +1,12 @@
+{
+  "name": "kumargeo",
+  "displayName": "kumargeo",
+  "expo": {
+    "name": "kumargeo",
+    "slug": "kumargeo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
